@@ -1,2 +1,2 @@
 # two-sum
-leetcode two sum. problem solution
+leetcode two sum problem solution
